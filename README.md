@@ -18,6 +18,8 @@ Authors list: Nyniane Steinkampf--Pellecuer 1#, Idriss Pelletan 1, Pauline Provi
 
 Licenses/restrictions placed on the data, or limitations of reuse: public domain, without restriction on use.
 
+Dataset DOI: [![DOI](https://zenodo.org/badge/1217853090.svg)](https://doi.org/10.5281/zenodo.20024825)
+
 
 
 **-------------------------------------**
