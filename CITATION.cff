@@ -10,7 +10,7 @@ authors:
 - family-names: "Provini"
   given-names: "Pauline"
   orcid: "https://orcid.org/0000-0002-9374-1291"
-title: SOUPE: an R package to test and optimize the phylogenetic and ecological representativeness of a taxonomic sample. 
+title: "SOUPE: an R package to test and optimize the phylogenetic and ecological representativeness of a taxonomic sample." 
 version: 0.1.0
 doi: https://doi.org/10.5281/zenodo.20024826
 date-released: 04-05-2026
