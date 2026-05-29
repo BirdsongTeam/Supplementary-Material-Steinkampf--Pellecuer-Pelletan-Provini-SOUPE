@@ -31,7 +31,7 @@ File list:
 
 SM1: codes and documentation
 
-* SM1a: **SOUPE package. The .zip file is the package to be installed, the .tar.gz file is the source code**. They should not be unzipped. Please don't skip the **"SOUPE Tutorial.md"** file, that contains the complete tutorial to install and use the package, and have a look at **"SOUPE Decision Tree.png"** file for a detailed step by step through the different options of the functions.
+* **SM1a: SOUPE package. The .zip file is the package to be installed, the .tar.gz file is the source code**. They should not be unzipped. Please don't skip the **"SOUPE Tutorial.md"** file, that contains the complete tutorial to install and use the package, and have a look at **"SOUPE Decision Tree.png"** file for a detailed step by step through the different options of the functions.
 * SM1b: code for the case studies
 
 
